@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-ofi4kc.10depositcasino.co.nz/sitemap.xml
